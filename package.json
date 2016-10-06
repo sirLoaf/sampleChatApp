@@ -7,6 +7,9 @@
 		"express": "3.x",
 		"socket.io": "*"
 	},
+  "engines": {
+    "node": "6.6.0"
+  }, 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
