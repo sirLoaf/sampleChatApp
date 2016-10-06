@@ -2,7 +2,7 @@
   "name": "samplechatapp",
   "version": "1.0.0",
   "description": "sampleChatApp",
-  "main": "index.html",
+  "main": "public/index.html",
   "dependencies" : {
 		"express": "3.x",
 		"socket.io": "*"
